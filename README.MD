@@ -15,21 +15,18 @@ Victims of DoS attacks often target web servers of high-profile organizations su
 
 #
 <h2><b> 🔴 This Script Is Just Made For Educational Purpose</b></h2>
-<h2><strong><p>Code : </strong></h2><i><h2> Mr.Cyb3rgh0st</h2> </i><p>
+<h2><strong><p>Code :</h2><i><h2> Mr.Cyb3rgh0st</h2> </i><p>
 <h2><strong><p>  </i><p>
 <h3><b> 🔴 I'm Not Responsible For Any Type Of Illegal Activities</b></h3>
 
-#
-> This Script Is Divided Into Two Part....
-` Wifi_Dos_v1 and v2 ` and ` Wifi_Dos_final`
-#
+
 <img src="https://img.shields.io/badge/Python-3.10.5-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"> <img src="https://img.shields.io/badge/FinalVersion-red"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen"> <a href="https://taguar258.github.io/Raven-Storm/INSTALLATION"> <img src="https://img.shields.io/badge/Build To Learn-red">
 
 #
 > Don't Blame On Script, Blame On You
 #
 # Wifi Dos Interface :
-<img src="https://github.com/R3DHULK/target-wifi/blob/main/wifi_dos_v1(interface).png?raw=true">
+<img src="https://raw.githubusercontent.com/Mr-Cyb3rgh0st/Wifi-Dos/main/wifi-dos.png">
 
 #
 # Wifi Dos Starting :
@@ -44,6 +41,5 @@ Victims of DoS attacks often target web servers of high-profile organizations su
 <img src="https://github.com/R3DHULK/target-wifi/blob/main/wifi_dos_final(end).png?raw=true">
 
 #
-# Found My Project Helpful?
-<h1 align="left"><b>Support 👇👇👇 </b></h1>
-<a href="https://www.buymeacoffee.com/r3dhulk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a><br><br>
+# My Project Helpful?
+
