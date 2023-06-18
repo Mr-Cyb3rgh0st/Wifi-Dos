@@ -15,8 +15,8 @@ Victims of DoS attacks often target web servers of high-profile organizations su
 
 #
 <h2><b> 🔴 This Script Is Just Made For Educational Purpose</b></h2>
-<h2><strong><p> Original Script : </strong></h2><i><h2> David Bombal</h2> </i><p>
-<h2><strong><p> Modified By : </strong></h2><i><h2> Sumalya Chatterjee</h2> </i><p>
+<h2><strong><p>Code : </strong></h2><i><h2> Mr.Cyb3rgh0st</h2> </i><p>
+<h2><strong><p>  </i><p>
 <h3><b> 🔴 I'm Not Responsible For Any Type Of Illegal Activities</b></h3>
 
 #
